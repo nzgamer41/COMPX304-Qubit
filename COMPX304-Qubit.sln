@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMPX304-Qubit", "COMPX304-Qubit\COMPX304-Qubit.csproj", "{298ED43E-6A17-42F3-B30F-01045BB7E160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMPX304-Qubit.Tests", "COMPX304-Qubit.Tests\COMPX304-Qubit.Tests.csproj", "{9A465AA0-1264-4C36-89DA-8081B92EF446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{298ED43E-6A17-42F3-B30F-01045BB7E160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298ED43E-6A17-42F3-B30F-01045BB7E160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298ED43E-6A17-42F3-B30F-01045BB7E160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298ED43E-6A17-42F3-B30F-01045BB7E160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A465AA0-1264-4C36-89DA-8081B92EF446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A465AA0-1264-4C36-89DA-8081B92EF446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A465AA0-1264-4C36-89DA-8081B92EF446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A465AA0-1264-4C36-89DA-8081B92EF446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D8E213-01D2-40E1-A59F-C43099DC6F4A}
+	EndGlobalSection
+EndGlobal
